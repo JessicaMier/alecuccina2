@@ -1,0 +1,91 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+nav {
+    background-image: linear-gradient(orange, rgb(196, 72, 34));
+}
+
+.jumbotron {
+    background-image: url(../media/img/vegetales.jpg);
+    height: 450PX;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(247, 246, 241);
+    text-shadow: 5px 5px 10PX black;
+    background-size: cover;
+    background-position: bottom;
+}
+body{
+    background-color:rgb(226, 142, 33); 
+}
+.container-fluid {
+    height: auto
+
+}
+.row{
+height: 800px;
+}
+.nright {
+    background-color:rgb(226, 142, 33);
+}
+
+.nleft {
+    background-color: rgb(226, 142, 33);
+    text-align: center;
+    font-size: 22px;
+}
+
+.nleft h2 {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+main{
+    background-color: rgb(241, 194, 135);
+}
+
+
+
+
+/*---------------------contacto-----------------------------*/
+.textoFormulario p{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*-------------------------------footer.......................................*/
+    
+footer{
+    background-image: linear-gradient(orange, rgb(196, 72, 34));;
+    font-size: 40px;
+    height: 180px;
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 20px;
+    }
+    
+footer p{
+    font-style: italic;
+    font-size: 40px;
+    background-color: black;
+    color: aliceblue;
+    background-size:cover ;    
+}   
+footer i{
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+    color: black;
+}
+    
+footer i:hover{
+    color: aliceblue;
+}  
