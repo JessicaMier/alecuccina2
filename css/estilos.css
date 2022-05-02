@@ -5,7 +5,7 @@
 }
 
 nav {
-    background-image: linear-gradient(orange, rgb(196, 72, 34));
+    background-image: linear-gradient(orange, rgb(218, 89, 50));
 }
 
 .jumbotron {
@@ -21,32 +21,7 @@ nav {
     background-position: bottom;
 }
 body{
-    background-color:rgb(226, 142, 33); 
-}
-.container-fluid {
-    height: auto
-
-}
-.row{
-height: 800px;
-}
-.nright {
-    background-color:rgb(226, 142, 33);
-}
-
-.nleft {
-    background-color: rgb(226, 142, 33);
-    text-align: center;
-    font-size: 22px;
-}
-
-.nleft h2 {
-    font-size: 40px;
-    text-transform: uppercase;
-}
-
-main{
-    background-color: rgb(241, 194, 135);
+    background-image:linear-gradient(rgb(248, 118, 12), rgb(243, 159, 50));
 }
 
 
